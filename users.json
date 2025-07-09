@@ -1,5 +1,5 @@
 {
-  "users": [
+
     {
       "id": 1,
       "name": "Yahya Ahmed",
@@ -15,5 +15,5 @@
       "name": "Ahlam Al-Zubairi",
       "email": "ahlam@example.com"
     }
-  ]
+
 }
