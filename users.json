@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yahya Ahmed",
+      "email": "yahya@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Sami Al-Mutairi",
+      "email": "sami@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Ahlam Al-Zubairi",
+      "email": "ahlam@example.com"
+    }
+  ]
+}
